@@ -5,7 +5,7 @@ then
 echo
 echo "You need root access"
 echo
-exit 0 
+exit 1 
 fi 
 ## Check number of processors
 
